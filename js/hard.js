@@ -1,4 +1,5 @@
 var num = 33721;
+var message = " hello";
 
 var num1 = Math.floor(num / 10000);
 var num2 = Math.floor(num%10000/1000);
