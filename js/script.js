@@ -1,5 +1,5 @@
 var Money = + prompt('Какой у вас бюджет ?');
-var StoreName = prompt('Название вашего магазина');
+var StoreName = prompt('Название вашего 555 магазина');
 var MainList = {
     money      : Money,
     storeName  : StoreName,
